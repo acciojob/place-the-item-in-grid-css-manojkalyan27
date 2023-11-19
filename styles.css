@@ -3,6 +3,7 @@
 .holder{
 	display: grid;
 /* 	grid: 200px; */
-	grid-template-columns: 200px repeat(1, 200px);
+	grid-template-columns: 100px repeat(1, 100px);
+/* 	grid-template-columns: 100px 100px; */
 	
 }
